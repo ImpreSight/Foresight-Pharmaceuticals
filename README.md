@@ -2,6 +2,8 @@
 A data analysis of Foresight Pharmaceuticals sales data from 2017 to 2020
 Title: Foresight Pharmaceuticals Sales Analysis.
 
+**Dataset link**: https://www.kaggle.com/datasets/bakareolaoluwa/pharmacy-dataset?select=Pharm-Data.xlsx
+
 I conducted sales data for Foresight Pharmaceuticals to elucidate insights on top performing products and product class, sales team, customers and distributors. 
 
 The Sales data was collected from the accredited distributors of Foresight Pharmaceuticals from the retailers on a monthly bases from 2017 to 2020.
